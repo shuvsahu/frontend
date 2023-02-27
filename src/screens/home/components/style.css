@@ -1,0 +1,24 @@
+.home{
+    text-align: center;
+    background-color: #fff;
+}
+
+.carousel-container{
+    /* display: flex;
+    justify-content: center; */
+    background-color: #fff;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: '300px';
+    /* border: 5px solid black; */
+}
+
+.row{
+    background-color: #fff;
+}
+
+.card-container{
+    display: flex;
+    justify-content: center;
+    /* border: 5px solid black; */
+}
